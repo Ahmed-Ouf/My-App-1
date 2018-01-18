@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
@@ -30,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # My-App-1
 vs code test 
->>>>>>> d918eaf612eec3cc8ccb4162c6f9fdfb73925003
